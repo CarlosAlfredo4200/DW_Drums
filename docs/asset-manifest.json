@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/DW_Drums/static/css/main.b98b9035.css",
+    "main.js": "/github.io/DW_Drums/static/js/main.399a08ff.js",
+    "static/js/787.a51d469a.chunk.js": "/github.io/DW_Drums/static/js/787.a51d469a.chunk.js",
+    "static/media/dw2.jpg": "/github.io/DW_Drums/static/media/dw2.6a09239a3e226ad96802.jpg",
+    "static/media/dw3.jpg": "/github.io/DW_Drums/static/media/dw3.9de58967095beec46f1e.jpg",
+    "static/media/drums.jpg": "/github.io/DW_Drums/static/media/drums.489df8b3563a61cc90e2.jpg",
+    "static/media/dwx.jpg": "/github.io/DW_Drums/static/media/dwx.7cffd1cd37c4b0c467a3.jpg",
+    "static/media/icono-sonido.svg": "/github.io/DW_Drums/static/media/icono-sonido.f54763756084f6d6a07ff4ef38d39e7b.svg",
+    "static/media/icono-garantia.svg": "/github.io/DW_Drums/static/media/icono-garantia.5edb4254f02ab0cad1430ff2890bde19.svg",
+    "static/media/icono-bateria.svg": "/github.io/DW_Drums/static/media/icono-bateria.8d9bb8baa5169906bf8164333b375fc2.svg",
+    "index.html": "/github.io/DW_Drums/index.html",
+    "main.b98b9035.css.map": "/github.io/DW_Drums/static/css/main.b98b9035.css.map",
+    "main.399a08ff.js.map": "/github.io/DW_Drums/static/js/main.399a08ff.js.map",
+    "787.a51d469a.chunk.js.map": "/github.io/DW_Drums/static/js/787.a51d469a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98b9035.css",
+    "static/js/main.399a08ff.js"
+  ]
+}
